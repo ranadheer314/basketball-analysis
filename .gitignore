@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 vault.py
-./__pycache__
+__pycache__/
